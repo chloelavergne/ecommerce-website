@@ -26,8 +26,8 @@ a:link {
 }
 
 a:visited{
-	color: #464E51;
-	border-bottom-color: #464E5;
+	color: #9ABACF;
+	border-bottom-color: #9ABACF;
 }
 
 a:hover,
@@ -43,6 +43,13 @@ table {
 	margin: 0 0 1.5rem;
 }
 
+h1, h2, h3, h4, h5, h6{
+	color: #1B315D;
+}
+
+p{
+	color: #2A3C63;
+}
 .yotta{
 	font-size: 2.28rem; /*36.48px/54.72px*/
 	line-height: 1.315;
