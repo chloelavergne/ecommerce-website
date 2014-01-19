@@ -118,6 +118,15 @@ ol li{
 	color: #2A3C63;
 }
 
+dl{
+	color: #2A3C63;
+}
+
+mark{
+	background-color: #9ABACF;
+	color: #fff;
+}
+
 ul li:before{
 	content: "•";
 	color: #9ABACF;
