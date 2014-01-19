@@ -123,6 +123,18 @@ dl{
 	color: #2A3C63;
 }
 
+td{
+    color:#1880A0; 
+}
+
+th{
+	color:#1B315D;
+}
+
+caption{
+	color: #2A3C63;
+}
+
 mark{
 	background-color: #9ABACF;
 	color: #fff;
