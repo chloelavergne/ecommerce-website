@@ -111,6 +111,11 @@ ul{
 
 ul li{
 	position: relative;
+	color: #2A3C63;
+}
+
+ol li{
+	color: #2A3C63;
 }
 
 ul li:before{
