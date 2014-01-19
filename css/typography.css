@@ -1,3 +1,107 @@
 @charset "UTF-8";
 /* CSS Document */
 
+html{
+	font: normal 100%/1.5 Georgia, serif; /*16px/24px*/
+}
+
+::selection{
+	background-color: red;
+	color: #fff;
+}
+
+a,
+a:link {
+	color: red;
+	text-decoration: none;
+	border-bottom: 0.1em solid rgba(255,0,0,0.5);
+	transition: all 200ms linear;
+}
+
+a:visited{
+	color: fuchsia;
+	border-bottom-color: fuchsia;
+}
+
+a:hover,
+a:focus,
+a:active {
+	color: pink;
+	border-bottom-color: pink;
+}
+
+h1, h2, h3, h4, h5, h6, 
+p, ul, ol, dl,
+table {
+	margin: 0 0 1.5rem;
+}
+
+.yotta{
+	font-size: 2.28rem; /*36.48px/54.72px*/
+	line-height: 1.315;
+}
+
+.zetta{
+	font-size: 2.027rem;
+}
+
+h1, .exa{
+	font-size: 1.802rem;
+	line-height: 1.6648;
+}
+
+h2, .peta {
+	font-size: 1.602rem;
+	line-height: 1.8729;
+}
+
+h3, .tera {
+	font-size: 1.424rem;
+	line-height: 1.0535;
+}
+
+h4, .giga {
+	font-size: 1.266rem;
+	line-height: 1.1852;
+}
+
+h5, .mega {
+	font-size: 1.125rem;
+	line-height: 1.3333;
+}
+
+h6, .kilo {
+	font-size:1rem;
+	line-height: 1.5000;
+}
+
+small, .milli{
+	font-size: 0.889rem;
+}
+
+.macro{
+	font-size: 0.79rem;
+}
+
+.zetta{
+	font-size: 2.027rem;
+}
+
+.yotta{
+	font-size: 2.28rem;
+}
+
+ul{
+	list-style-type: none;
+}
+
+ul li{
+	position: relative;
+}
+
+ul li:before{
+	content: "•";
+	color: #09F;
+	position: absolute;
+	left: -1.1em;
+}
