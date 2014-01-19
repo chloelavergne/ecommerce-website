@@ -115,7 +115,7 @@ ul li{
 
 ul li:before{
 	content: "•";
-	color: #09F;
+	color: #9ABACF;
 	position: absolute;
 	left: -1.1em;
 }
