@@ -20,6 +20,7 @@ header{
 
 nav {
 	background-color: #fff;
+	margin-top: -1rem;
 }
 
 nav ul {
@@ -40,6 +41,7 @@ nav li {
 nav li a {
     color: #2A3C63;
     text-decoration: none;
+	font: Georgia, "Times New Roman", Times, serif;
 }
  
 nav li a:hover, nav li a:focus, nav li a:active { 
