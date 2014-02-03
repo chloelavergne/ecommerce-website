@@ -2,7 +2,7 @@
 /* CSS Document */
 
 .bucket {
-        background-color: #fff;
+        background-color: #9ABACF;
 }
 
 h1 {
@@ -11,11 +11,15 @@ h1 {
 }
 
 h2 {
-        color: #2A3C63;
+        color: #1B315D;
         margin-bottom: 1rem;
 }
 
 p {
         color: #2A3C63;
         margin-bottom: 1rem;
+}
+
+.media-img{
+	margin-right: 5%;
 }
