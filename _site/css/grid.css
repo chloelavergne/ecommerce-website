@@ -1,0 +1,21 @@
+.grid{
+	border: 1px solid #9ABACF;
+	margin-top:2rem;
+	overflow: hidden;
+}
+
+.unit{
+	background-color: #fff;
+	float: left;
+	width: 33.3333%
+}
+
+.unit-2-3{
+	width: 66.6666%;
+}
+
+.gutter{
+	padding-left: 0.75rem;
+	padding-right: 0.75rem;
+}
+

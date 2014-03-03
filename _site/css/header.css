@@ -1,0 +1,50 @@
+@charset "UTF-8";
+/* CSS Document */
+
+header{
+	background-color: #2A3C63;
+}
+
+#search input[type="text"] {
+	color: #2A3C63;
+	float: right;
+	margin-top: 4.5rem;
+	margin-right: 2rem;
+	width: 16rem;
+}
+
+.logo{
+	margin-left: 2rem;
+}
+
+
+nav {
+	background-color: #fff;
+	margin-top: -1rem;
+}
+
+nav ul {
+    padding: 1rem;
+    background-color: #fff;
+	text-align: center;
+}
+ 
+nav li {
+	display:inline-block;
+	margin-right: 1rem;
+    list-style: none;
+    text-transform: uppercase;
+    color: #fff;
+    text-decoration: none;
+}
+ 
+nav li a {
+    color: #2A3C63;
+    text-decoration: none;
+	font: Georgia, "Times New Roman", Times, serif;
+}
+ 
+nav li a:hover, nav li a:focus, nav li a:active { 
+    color: #9ABACF; 
+}
+ 

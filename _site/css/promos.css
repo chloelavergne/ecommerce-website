@@ -1,0 +1,25 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.bucket {
+        background-color: #9ABACF;
+}
+
+h2 {
+        color: #1B315D;
+        margin-bottom: 1rem;
+}
+
+h3 {
+        color: #1B315D;
+        margin-bottom: 1rem;
+}
+
+p {
+        color: #2A3C63;
+        margin-bottom: 1rem;
+}
+
+.media-img{
+	margin-right: 5%;
+}
