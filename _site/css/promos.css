@@ -23,3 +23,12 @@ p {
 .media-img{
 	margin-right: 5%;
 }
+
+.promo-small{
+	background-color: #c7c0ae;
+	border-radius: 10px;
+}
+
+.gutter{
+	padding: 10px;
+}
