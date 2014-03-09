@@ -49,11 +49,11 @@ nav li a:hover, nav li a:focus, nav li a:active {
 }
 
 .current {
-  background-color: #9F9;
+  background-color: #C7EBF1;
 }
  
 .banner{
-	background: #000 url("..images/banner.jpg") no-repeat center center;
+	background: #9ABACF url("..images/banner.jpg") no-repeat center center;
 	background-size: cover;
 	padding: 5rem 1rem 1rem;
 	text-align: center;
