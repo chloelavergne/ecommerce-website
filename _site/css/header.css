@@ -53,7 +53,7 @@ nav li a:hover, nav li a:focus, nav li a:active {
 }
  
 .banner{
-	background: #9ABACF url("..images/winter-banner.jpg") no-repeat center center;
+	background: #9ABACF url("../images/banner.jpg") no-repeat center center;
 	background-size: cover;
 	padding: 5rem 1rem 1rem;
 	text-align: center;
