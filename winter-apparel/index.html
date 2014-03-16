@@ -1,0 +1,43 @@
+---
+layout: apparel
+title: Winter Apparel
+meta: What you need for the cold season.
+---
+
+<div class="grid"> 
+	<div class="unit unit-s-1 unit-m-1-2 unitl-1-3">
+		<h1>Winter Apparel</h1>
+	</div>
+	<div class="unit unit-s-1 unit-m-1-2 unitl-1-3">
+		<p>All you need for the cold season</p>
+	</div>
+</div>
+
+<ul>
+	{% for apparel in site.pages %}
+		{% if apparel.category == 'jackets' %}
+			<li>
+				{{apparel.category}}
+				<a href="{{apparel.url}}">
+				<img src="{{site.baseurl}}/images/{{apparel.image}}" alt="">
+				{{apparel.name}}
+				</a>
+			</li>
+		{% endif %}
+	{% endfor %}
+</ul>
+
+<ul>
+	{% for apparel in site.pages %}
+		{% if apparel.category == 'snow gear' %}
+			<li>
+				{{apparel.category}}
+				<a href="{{apparel.url}}">
+				<img src="{{site.baseurl}}/images/{{apparel.image}}" alt="">
+				{{apparel.name}}
+				</a>
+			</li>
+		{% endif %}
+	{% endfor %}
+</ul>
+
