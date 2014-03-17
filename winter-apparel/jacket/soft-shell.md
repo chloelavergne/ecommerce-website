@@ -7,15 +7,12 @@ diet: Carnivore
 image: soft-shell.jpg
 ---
 
-The Tyrannosaurus is the most fierce of all dinosaurs!
+Made from virtually windproof and waterproof fabric on the exterior, this soft shell is ideal for trekking, skiing, and snowshoeing in inclement weather. Slight stretch-elastane fabric promotes ease of movement and a soft fleece backer offers a comfortable fit for cold, windy excursions.
 
-The Tyrannausorus lived during the [late cretaceous period](http://en.wikipedia.org/wiki/Late_Cretaceous).
+## Product Details
 
-## Features
+- Windproof and waterproof fabric
+- Ideal for outdoor activities
 
-- Big teeth
-- Little arms
-- Thick tail
-
-![T-Rex Skeleton](http://someinterestingfacts.net/wp-content/uploads/2013/01/T-Rex-Facts.jpg)
+![Soft Shell](http://www.crunchwear.com/wp-content/uploads/2007/10/jansport_ipod_softshell_jacket.jpg)
 

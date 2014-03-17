@@ -7,16 +7,14 @@ diet: Carnivore
 image: windbreaker.jpg
 ---
 
-The Tyrannosaurus is the most fierce of all dinosaurs!
+The thin outer coat is designed to resist wind chill and light rain, a lighter version of a jacket. It is made of light construction, and made of some type of synthetic material.
 
-The Tyrannausorus lived during the [late cretaceous period](http://en.wikipedia.org/wiki/Late_Cretaceous).
+## Product Details
 
-## Features
+- Waterproof fabric
+- Elastic waistbands
+- Lots of pockets
 
-- Big teeth
-- Little arms
-- Thick tail
-
-![T-Rex Skeleton](http://someinterestingfacts.net/wp-content/uploads/2013/01/T-Rex-Facts.jpg)
+![Windbreaker](https://www.troyleedesigns.com/omniweaver/files/stream/13TLD_FW_JACKETS_WINDSOR_WINDBREAKER_GRAY.png)
 
 

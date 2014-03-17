@@ -2,20 +2,16 @@
 layout: jackets
 category: jackets
 name: Insulated
-time_period: Late Cretaceous
-diet: Carnivore
+type: super-heat
 image: insulated.jpg
 ---
 
-The Tyrannosaurus is the most fierce of all dinosaurs!
+We searched textile mills around the world until we found this luxurious Italian lambswool fabric. Its premium quality guarantees our coat will keep its good looks and retain its remarkable softness through many seasons. 
 
-The Tyrannausorus lived during the [late cretaceous period](http://en.wikipedia.org/wiki/Late_Cretaceous).
+## Product Details
 
-## Features
+- Extra soft lambswool
+- Thinsulate Insulation adds warm
 
-- Big teeth
-- Little arms
-- Thick tail
-
-![T-Rex Skeleton](http://someinterestingfacts.net/wp-content/uploads/2013/01/T-Rex-Facts.jpg)
+![Insulated](http://1.bp.blogspot.com/_ag8cy9r2XdE/TPD59GsGCyI/AAAAAAAAKKg/VpuZmuKWhbc/s1600/Winter-Coat-Padded-Coat-Hoody-Coat-09288-.jpg)
 

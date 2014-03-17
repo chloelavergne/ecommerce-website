@@ -7,15 +7,13 @@ diet: Carnivore
 image: interchange.jpg
 ---
 
-The Tyrannosaurus is the most fierce of all dinosaurs!
+The lightweight liner jacket is insulated with 100 grams of Omni-Heat for maximum warmth in a low-profile silhouette. Wear the liner and shell together for a powerful combination of style, protection and comfort.
 
-The Tyrannausorus lived during the [late cretaceous period](http://en.wikipedia.org/wiki/Late_Cretaceous).
+## Product Details
 
-## Features
+- Zip-in interchange system
+- Adjustable, comfort cuffs
+- Removable, adjustable storm hood
 
-- Big teeth
-- Little arms
-- Thick tail
-
-![T-Rex Skeleton](http://someinterestingfacts.net/wp-content/uploads/2013/01/T-Rex-Facts.jpg)
+![Interchange](http://www.comfortableshoes.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/c/o/columbia_horizons_pine_interchange_boulder_1.jpg)
 

@@ -7,15 +7,13 @@ diet: Carnivore
 image: raincoat.jpg
 ---
 
-The Tyrannosaurus is the most fierce of all dinosaurs!
+Built for dark and torrential conditions, this mid-thigh jacket is sufficiently roomy to allow insulating layers. Taped seams and a robust waterproof fabric will keep rain on the right side, while liberally placed reflective accents increase visibility in the gloom.
 
-The Tyrannausorus lived during the [late cretaceous period](http://en.wikipedia.org/wiki/Late_Cretaceous).
+## Product Details
 
-## Features
+- Elastic cuffs seal out wetness and drafts.
+- Seams are fully taped.
+- Relaxed fit
 
-- Big teeth
-- Little arms
-- Thick tail
-
-![T-Rex Skeleton](http://someinterestingfacts.net/wp-content/uploads/2013/01/T-Rex-Facts.jpg)
+![Raincoat](http://images.mec.ca/fluid/customers/c822/5024-084/generated/5024-084_YLW00_view1_1000x1000.jpg)
 
