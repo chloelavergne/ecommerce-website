@@ -1,6 +1,6 @@
 ---
-layout: jackets
-category: jackets
+layout: apparel
+category: snowgear
 name: Goggle
 type: glasses
 image: goggle.jpg

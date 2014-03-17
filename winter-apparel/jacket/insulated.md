@@ -1,5 +1,5 @@
 ---
-layout: jackets
+layout: apparel
 category: jackets
 name: Insulated
 type: super-heat

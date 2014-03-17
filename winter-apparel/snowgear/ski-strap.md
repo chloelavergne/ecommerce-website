@@ -1,9 +1,7 @@
 ---
-layout: jackets
-category: jackets
+layout: apparel
+category: snowgear
 name: Ski Strap
-time_period: Late Cretaceous
-diet: Carnivore
 image: ski-strap.jpg
 ---
 

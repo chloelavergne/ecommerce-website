@@ -1,9 +1,7 @@
 ---
-layout: jackets
-category: jackets
+layout: apparel
+category: snowgear
 name: Snowshoes
-time_period: Late Cretaceous
-diet: Carnivore
 image: snowshoes.jpg
 ---
 

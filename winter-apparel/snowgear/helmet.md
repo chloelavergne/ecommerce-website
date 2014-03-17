@@ -1,9 +1,7 @@
 ---
-layout: jackets
-category: jackets
+layout: apparel
+category: snowgear
 name: Helmet
-time_period: Late Cretaceous
-diet: Carnivore
 image: helmet.jpg
 ---
 

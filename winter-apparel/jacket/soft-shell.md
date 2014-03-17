@@ -1,9 +1,7 @@
 ---
-layout: jackets
+layout: apparel
 category: jackets
 name: Soft Shell
-time_period: Late Cretaceous
-diet: Carnivore
 image: soft-shell.jpg
 ---
 

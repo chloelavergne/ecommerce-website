@@ -1,9 +1,7 @@
 ---
-layout: jackets
+layout: apparel
 category: jackets
 name: Raincoat
-time_period: Late Cretaceous
-diet: Carnivore
 image: raincoat.jpg
 ---
 

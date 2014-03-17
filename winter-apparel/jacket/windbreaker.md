@@ -1,9 +1,7 @@
 ---
-layout: jackets
+layout: apparel
 category: jackets
 name: Windbreaker
-time_period: Late Cretaceous
-diet: Carnivore
 image: windbreaker.jpg
 ---
 

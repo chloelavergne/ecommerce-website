@@ -1,9 +1,7 @@
 ---
-layout: jackets
+layout: apparel
 category: jackets
 name: Interchange
-time_period: Late Cretaceous
-diet: Carnivore
 image: interchange.jpg
 ---
 
