@@ -1,10 +1,10 @@
 ---
 layout: jackets
 category: jackets
-name: Insulated
+name: Soft Shell
 time_period: Late Cretaceous
 diet: Carnivore
-image: 
+image: soft-shell.jpg
 ---
 
 The Tyrannosaurus is the most fierce of all dinosaurs!

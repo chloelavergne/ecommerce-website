@@ -1,10 +1,10 @@
 ---
 layout: jackets
 category: jackets
-name: Ski Strap
+name: Insulated
 time_period: Late Cretaceous
 diet: Carnivore
-image: 
+image: insulated.jpg
 ---
 
 The Tyrannosaurus is the most fierce of all dinosaurs!

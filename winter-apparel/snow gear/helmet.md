@@ -1,10 +1,10 @@
 ---
 layout: jackets
 category: jackets
-name: Goggle
+name: Helmet
 time_period: Late Cretaceous
 diet: Carnivore
-image: 
+image: helmet.jpg
 ---
 
 The Tyrannosaurus is the most fierce of all dinosaurs!

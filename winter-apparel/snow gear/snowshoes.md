@@ -4,7 +4,7 @@ category: jackets
 name: Snowshoes
 time_period: Late Cretaceous
 diet: Carnivore
-image: 
+image: snowshoes.jpg
 ---
 
 The Tyrannosaurus is the most fierce of all dinosaurs!

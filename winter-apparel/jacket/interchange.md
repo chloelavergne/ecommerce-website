@@ -4,7 +4,7 @@ category: jackets
 name: Interchange
 time_period: Late Cretaceous
 diet: Carnivore
-image: 
+image: interchange.jpg
 ---
 
 The Tyrannosaurus is the most fierce of all dinosaurs!
